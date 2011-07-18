@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">10</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3fe9ac3e-e27b-45f3-a3ae-dbceea6e0b8a</dc:identifier>
+        <dc:title>O Homem Que Sabia Javanês E Outros Contos</dc:title>
+        <dc:creator opf:file-as="Barreto, Lima" opf:role="aut">Barreto, Lima</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.44) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-01-18T02:00:00+00:00</dc:date>
+        <dc:publisher>Glauber Ribeiro</dc:publisher>
+        <dc:language>pt-BR</dc:language>
+        <dc:subject>General Fiction</dc:subject>
+        <meta content="2011-07-05T23:17:58.085287+00:00" name="calibre:timestamp"/>
+        <meta content="O Homem Que Sabia Javanês E Outros Contos" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Capas"/>
+    </guide>
+</package>

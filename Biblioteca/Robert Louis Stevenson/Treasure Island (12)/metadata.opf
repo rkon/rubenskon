@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">12</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b3df88de-8a9b-472f-8af1-9de852c495f7</dc:identifier>
+        <dc:title>Treasure Island</dc:title>
+        <dc:creator opf:file-as="Stevenson, Robert Louis" opf:role="aut">Robert Louis Stevenson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.44) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-07-05T03:00:00+00:00</dc:date>
+        <dc:publisher>Amazon Digital Services, Inc.</dc:publisher>
+        <dc:language>pt-BR</dc:language>
+        <meta content="2011-07-05T23:18:01.677401+00:00" name="calibre:timestamp"/>
+        <meta content="Treasure Island" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Capas"/>
+    </guide>
+</package>

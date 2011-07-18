@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0f88636c-ddbd-4f84-ae9c-07c2d23bea77</dc:identifier>
+        <dc:title>The Relative Merits of Population-Based and Targeted Prevention Strategies</dc:title>
+        <dc:creator opf:file-as="Desconhecido" opf:role="aut">Desconhecido</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.44) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-05-05T23:43:07.878659+00:00</dc:date>
+        <dc:language>pt-BR</dc:language>
+        <meta content="2011-05-05T23:43:07.878594+00:00" name="calibre:timestamp"/>
+        <meta content="Relative Merits of Population-Based and Targeted Prevention Strategies, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Capas"/>
+    </guide>
+</package>

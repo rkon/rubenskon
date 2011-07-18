@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a3e4fc1e-74fe-4513-b2a5-85b118a49647</dc:identifier>
+        <dc:title>Advanced Human and Social Biology: Student's Art Notebook</dc:title>
+        <dc:creator opf:file-as="Toole, Glenn &amp; Toole, Susan" opf:role="aut">Glenn Toole</dc:creator>
+        <dc:creator opf:file-as="Toole, Glenn &amp; Toole, Susan" opf:role="aut">Susan Toole</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.44) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1997-07-15T00:00:32.746358+00:00</dc:date>
+        <dc:publisher>Nelson Thornes</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780748729111</dc:identifier>
+        <dc:language>pt-BR</dc:language>
+        <dc:subject>Biology</dc:subject>
+        <dc:subject>Psychology</dc:subject>
+        <dc:subject>Philosophy &amp; Social Aspects</dc:subject>
+        <dc:subject>Science</dc:subject>
+        <dc:subject>Life Sciences</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Human physiology</dc:subject>
+        <meta content="2011-05-06T00:00:28.398980+00:00" name="calibre:timestamp"/>
+        <meta content="Advanced Human and Social Biology: Student's Art Notebook" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Capas"/>
+    </guide>
+</package>

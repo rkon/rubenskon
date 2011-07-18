@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">11</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9714f207-b06a-403e-8f6e-28fe719f42a3</dc:identifier>
+        <dc:title>The Origin of Species by means of Natural Selection (6th Edition)</dc:title>
+        <dc:creator opf:file-as="Darwin, Charles" opf:role="aut">Darwin, Charles</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.44) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-07-05T23:17:59.447313+00:00</dc:date>
+        <dc:language>pt-BR</dc:language>
+        <meta content="2011-07-05T23:17:59.447242+00:00" name="calibre:timestamp"/>
+        <meta content="Origin of Species by means of Natural Selection (6th Edition), The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Capas"/>
+    </guide>
+</package>

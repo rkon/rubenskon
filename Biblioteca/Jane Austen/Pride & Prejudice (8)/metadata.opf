@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e94fcbb3-a390-41f4-8d78-6d5323068839</dc:identifier>
+        <dc:title>Pride &amp; Prejudice</dc:title>
+        <dc:creator opf:file-as="Austen, Jane" opf:role="aut">Jane Austen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.44) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-07-05T03:00:00+00:00</dc:date>
+        <dc:publisher>Amazon Digital Services, Inc.</dc:publisher>
+        <dc:language>pt-BR</dc:language>
+        <meta content="2011-07-05T23:17:51.492841+00:00" name="calibre:timestamp"/>
+        <meta content="Pride &amp; Prejudice" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Capas"/>
+    </guide>
+</package>

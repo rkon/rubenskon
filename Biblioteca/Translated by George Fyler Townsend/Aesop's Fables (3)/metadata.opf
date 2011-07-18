@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a3b6989e-1e75-4b79-91dc-c4bf1f234979</dc:identifier>
+        <dc:title>Aesop's Fables</dc:title>
+        <dc:creator opf:file-as="Townsend, Translated by George Fyler" opf:role="aut">Translated by George Fyler Townsend</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.44) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-05-05T03:00:00+00:00</dc:date>
+        <dc:publisher>Amazon Digital Services, Inc.</dc:publisher>
+        <dc:language>pt-BR</dc:language>
+        <meta content="2011-05-05T23:41:58.236428+00:00" name="calibre:timestamp"/>
+        <meta content="Aesop's Fables" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Capas"/>
+    </guide>
+</package>

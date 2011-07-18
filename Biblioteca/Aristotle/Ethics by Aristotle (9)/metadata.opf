@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">86e9e08c-c053-4b58-9cce-492dd85fb11e</dc:identifier>
+        <dc:title>Ethics by Aristotle</dc:title>
+        <dc:creator opf:file-as="Aristotle" opf:role="aut">Aristotle</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.44) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-07-01T03:00:00+00:00</dc:date>
+        <dc:description>THIS TITLE IS AN OUT-OF-COPYRIGHT BOOK. THE QUALITY OF THE CONVERTED EBOOK WILL VARY.</dc:description>
+        <dc:publisher>Public Domain Books</dc:publisher>
+        <dc:language>pt-BR</dc:language>
+        <meta content="2011-07-05T23:17:55.186938+00:00" name="calibre:timestamp"/>
+        <meta content="Ethics by Aristotle" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Capas"/>
+    </guide>
+</package>

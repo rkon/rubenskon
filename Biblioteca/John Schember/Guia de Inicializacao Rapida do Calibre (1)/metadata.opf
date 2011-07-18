@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">25d91464-aae8-40b3-94fb-344780c4c2c9</dc:identifier>
+        <dc:title>Guia de Inicialização Rápida do Calibre</dc:title>
+        <dc:creator opf:file-as="Schember, John" opf:role="aut">John Schember</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.44) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-05-05T03:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;A guide to get you up and running with calibre&lt;/p&gt;</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>pt-BR</dc:language>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-05-05T20:16:14.479368+00:00" name="calibre:timestamp"/>
+        <meta content="Guia de Inicialização Rápida do Calibre" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Capas"/>
+    </guide>
+</package>

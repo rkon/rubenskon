@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0e2541ca-fa61-42aa-af77-ba5171cbe3cb</dc:identifier>
+        <dc:title>B004C43EW6 EBOK</dc:title>
+        <dc:creator opf:file-as="Desconhecido" opf:role="aut">Desconhecido</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.44) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-07-05T23:11:31.484440+00:00</dc:date>
+        <dc:language>pt-BR</dc:language>
+        <meta content="2011-07-05T23:11:31.484375+00:00" name="calibre:timestamp"/>
+        <meta content="B004C43EW6 EBOK" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Capas"/>
+    </guide>
+</package>

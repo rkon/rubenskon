@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">152a33f2-ce8d-4d01-a7ad-690e8ac897b0</dc:identifier>
+        <dc:title>Por que Cuba se transformou num problema para a Esquerda?</dc:title>
+        <dc:creator opf:file-as="Boaventura de Sousa santos" opf:role="aut">Boaventura de Sousa Santos</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.44) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-05-05T03:00:00+00:00</dc:date>
+        <dc:language>pt-BR</dc:language>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-05-05T20:17:11.348703+00:00" name="calibre:timestamp"/>
+        <meta content="Microsoft Word - Oficina do CES 322- BSousa Santos.doc" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Capas"/>
+    </guide>
+</package>
